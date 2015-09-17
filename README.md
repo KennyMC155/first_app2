@@ -1,0 +1,1 @@
+Second try to make the first app in Ruby on rails
